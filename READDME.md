@@ -34,6 +34,7 @@
 ## GraphQL
 
 ## Elixir
+- [Elixir School](https://github.com/doomspork/elixir-school)
 
 ## OTP
 - [Cowboy application design](http://learningelixir.joekain.com/cowboy-application-design/)
