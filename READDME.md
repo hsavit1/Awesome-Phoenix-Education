@@ -1,17 +1,5 @@
 # Awesome Phoenix Education (Extremely Early Stage)
 
-
-## Projects
-- [Phoenix hipster stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
-- [Elixir Phoenix basic chat](https://github.com/itzikbenh/Elixir-Phoenix-basic-chat)
-- [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
-- [Phoenix static blog template](https://github.com/sebastianseilund/phoenix-static-blog-example) - An example of a Phoenix application using static Markdown documents to host a simple blog.
-
-## Posts
-- [Phoenix + React](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.62q89yjgo)
-- [React/Redux + Phoenix (Elixir)](https://github.com/chvanikoff/reph)
-- [The road to 2 MILLION websocket connections](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
-
 ## Postgres
 - [Postgres tutorial](https://pgexercises.com/about.html)
 
@@ -20,8 +8,17 @@
 
 ## Ecto
 
+## Controllers
+
+## Generators
+
+## Performance
+- [The road to 2 MILLION websocket connections](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
+
 ## Architecture
 - [Phoenix Application Architecture](https://github.com/phoenixframework/phoenix_guides/issues/118)
+
+## Testing
 
 ## Deployments
 
@@ -54,8 +51,16 @@
 - [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - [A list of companies currently using Elixir](https://github.com/doomspork/elixir-companies)
 
+## Example Projects
+- [Phoenix hipster stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
+- [Elixir Phoenix basic chat](https://github.com/itzikbenh/Elixir-Phoenix-basic-chat)
+- [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
+- [Phoenix static blog template](https://github.com/sebastianseilund/phoenix-static-blog-example) - An example of a Phoenix application using static Markdown documents to host a simple blog.
+
 ## Video 
 
 ## Frontend
+- [Phoenix + React](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.62q89yjgo)
+- [React/Redux + Phoenix (Elixir)](https://github.com/chvanikoff/reph)
 
 ## Classes
