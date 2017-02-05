@@ -13,7 +13,7 @@
 - [The road to 2 MILLION websocket connections](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
 
 ## Postgres
-- [postgres tutorial](https://pgexercises.com/about.html)
+- [Postgres tutorial](https://pgexercises.com/about.html)
 
 ## Plug
 - [Getting Started With Plug](http://www.brianstorti.com/getting-started-with-plug-elixir/)
@@ -51,6 +51,7 @@
 ## Use Cases
 - [Why Phoenix](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
 - [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
+- [A list of companies currently using Elixir](https://github.com/doomspork/elixir-companies)
 
 ## Video 
 
