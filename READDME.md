@@ -16,3 +16,6 @@
 
 ## Plug
 - [Getting Started With Plug](http://www.brianstorti.com/getting-started-with-plug-elixir/)
+
+## Supervision Trees
+[Visualisation of Elixir Supervision Tree Strategies](https://medium.com/@mustafaturan/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138#.lgj5a4fux)
