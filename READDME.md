@@ -38,10 +38,15 @@
 ## Umbrella Projects 
 - [Create an Elixir umbrella project containing a phoenix app and build a release with Distillery](https://medium.com/@brucepomeroy/create-an-elixir-umbrella-project-containing-a-phoenix-app-and-build-a-release-with-distillery-46371f2617df#.n8h1hp3wr)
 
+## Continuous Integration 
+- [Integrating CircleCI with Elixir/Phoenix](https://codingcode.io/integrating-circleci-with-elixir-phoenix-e8a1733201e#.rlp0wi1d3)
+
 ## Deployments
 - [Deploying phoenix apps for rails devs](https://shovik.com/blog/6-deploying-phoenix-apps-for-rails-developers)
 - [Deploying Elixir Applications with Distillery](https://medium.com/@east5th/deploying-elixir-applications-with-distillery-f7f01d040a20#.m6t9k9ic3)
 - [Upgrade Releases with Edeliver](https://medium.com/@east5th/upgrade-releases-with-edeliver-f24fc9c10494#.ci34c55ad)
+- [Phoenix |> CircleCI |> Heroku deployment](https://medium.com/@tliversidge/phoenix-circleci-heroku-deployment-9d6cc9ef3739#.atw1d3atc)
+- [Elixir deployments on AWS](https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d#.7cowzjp3s)
 
 ## Docker
 - [Docker Phoenix](https://github.com/marcelocg/phoenix-docker)
@@ -64,6 +69,9 @@
 - [Designing with OTP in mind](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
 - [Visualisation of Elixir Supervision Tree Strategies](https://medium.com/@mustafaturan/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138#.lgj5a4fux)
 - [Processes, OTP's, and Supervisors for Elixir](https://speakerdeck.com/benjamintan/elixir-peeking-into-processes-otp-and-supervisors)
+
+## CDNs
+- [How to Set Up a CDN in Phoenix](https://shift.infinite.red/how-to-set-up-a-cdn-in-phoenix-af89074e0a62#.rl1452q00)
 
 ## Machine Learning 
 - [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
