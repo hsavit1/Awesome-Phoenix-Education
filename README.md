@@ -14,6 +14,13 @@
 - [PostgreSQL Exercises in Ecto](https://medium.com/@elixirist7/postgresql-exercises-in-ecto-a291ee5482e6#.r8n6lbrdk)
 - [Ecto Docs](https://hexdocs.pm/ecto/Ecto.html)
 
+## APIs
+- [Introduction to APIs with Phoenix - part 1](https://blog.codeship.com/an-introduction-to-apis-with-phoenix/) - A walkthrough of making a TODO App API with Phoenix 
+- [Ridiculously Fast API Authentication with Phoenix - part 2](https://blog.codeship.com/ridiculously-fast-api-authentication-with-phoenix/) - authentication with Ecto. discusses changelogs, user creation and authentication 
+- [Refactoring Faster Than You Can Spell Phoenix - part 3](https://blog.codeship.com/refactoring-faster-can-spell-phoenix/)
+
+## Authentication
+
 ## Controllers
 
 ## Generators
@@ -29,6 +36,9 @@
 
 ## Testing
 - [Test driving a Phoenix endpoint, part I](https://medium.com/@lasseebert/test-driving-a-phoenix-endpoint-part-i-b53e300c1a0a#.nugb9j75c)
+
+## Monitoring 
+- [Monitoring Phoenix](https://medium.com/@mschae/measuring-your-phoenix-app-d63a77b13bda#.ofljn28yn)
 
 ## Clustering
 - [Running Elixir and Phoenix projects on a cluster of nodes](https://dockyard.com/blog/2016/01/28/running-elixir-and-phoenix-projects-on-a-cluster-of-nodes)
@@ -52,6 +62,7 @@
 - [Docker Phoenix](https://github.com/marcelocg/phoenix-docker)
 - [How to use Docker and Phoenix](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)
 - [Deploying Phoenix Apps with Docker](https://shovik.com/blog/8-deploying-phoenix-apps-with-docker)
+- [Running Your Phoenix Tests Using Docker](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
 
 ## GraphQL
 - [Phoenix GraphQL Tutorial with Absinthe](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
@@ -61,6 +72,7 @@
 
 ## Elixir
 - [Elixir School](https://github.com/doomspork/elixir-school)
+- [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/)
 
 ## OTP
 - [Cowboy application design](http://learningelixir.joekain.com/cowboy-application-design/)
@@ -83,14 +95,13 @@
 
 ## Use Cases
 - [Why Phoenix](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
-- [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - [A list of companies currently using Elixir](https://github.com/doomspork/elixir-companies)
-- [Phoenix and Elm, a real use case (pt. 1)](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/)
 - [Benefits of Elixir: How Elixir helped Bleacher Report handle 8x more traffic](http://www.techworld.com/apps/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/)
 - [10 Reasons to choose phoenix for your next startup](http://cultofmetatron.io/10-reasons-you-should-bet-on-elixir-for-your-next-startup/)
 
 ## Phoenix vs Rails
 - [Phoenix Channels vs Rails Action Cable](https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable)
+- [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 
 ## Example Projects
 - [Phoenix hipster stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
@@ -99,10 +110,20 @@
 - [Phoenix static blog template](https://github.com/sebastianseilund/phoenix-static-blog-example) - An example of a Phoenix application using static Markdown documents to host a simple blog.
 
 ## Video 
+- [Elixir and Phoenix Screencasts](https://elixircasts.io/)
 
 ## Frontend
+
+#### React
 - [Phoenix + React](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.62q89yjgo)
 - [React/Redux + Phoenix (Elixir)](https://github.com/chvanikoff/reph)
 - [How to Use Phoenix + React + Webpack](https://medium.com/@roaltay/how-to-use-phoenix-react-webpack-5383fa556b62#.5bj4tukfg)
+
+#### Elm
+- [Phoenix and Elm, a real use case (pt. 1)](https://medium.com/tboe/phoenix-and-elm-a-real-use-case-pt-1-faf56715c112#.e5vq2if5f)
+- [Phoenix and Elm, a real use case (pt. 2)](https://medium.com/tboe/phoenix-and-elm-a-real-use-case-pt-2-e390568701f6#.gtfa5ab12)
+
+
+
 
 ## Classes
