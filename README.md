@@ -20,6 +20,11 @@
 - [Refactoring Faster Than You Can Spell Phoenix - part 3](https://blog.codeship.com/refactoring-faster-can-spell-phoenix/)
 
 ## Authentication
+- [Elixir /Phoenix— Lets code authentication. Todo application part 1.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-1-599ee94cd04d#.74z2z2t8r) - With Guardian and Comeonin
+- [Elixir /Phoenix— Lets code authentication. Todo application part 2.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-2-f52348c2b32f#.bxx5qkgc5) - With Guardian and Comeonin
+- [Elixir /Phoenix— Lets code authentication. Todo application part 3.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-3-acb879d8816#.1n9innym5) - With Guardian and Comeonin
+- [Elixir /Phoenix — A todo and user relationship. Todo application part 4.](https://medium.com/@Stephanbv/elixir-phoenix-a-todo-and-user-relationship-todo-application-part-4-7c2d80d22dea#.tcmgtb7mi)
+- [Elixir /Phoenix — Incomplete and completed todos. Part 5.](https://medium.com/@Stephanbv/elixir-phoenix-a-todo-and-user-relationship-todo-application-part-5-4a7e1b3ff7b9#.jncufgr09)
 
 ## Controllers
 
@@ -82,6 +87,10 @@
 - [Visualisation of Elixir Supervision Tree Strategies](https://medium.com/@mustafaturan/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138#.lgj5a4fux)
 - [Processes, OTP's, and Supervisors for Elixir](https://speakerdeck.com/benjamintan/elixir-peeking-into-processes-otp-and-supervisors)
 
+## Phoenix 1.3
+- [Phoenix 1.3_rc Released](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
+- [Phoenix 1.3 upgrade guide](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
+
 ## CDNs
 - [How to Set Up a CDN in Phoenix](https://shift.infinite.red/how-to-set-up-a-cdn-in-phoenix-af89074e0a62#.rl1452q00)
 
@@ -109,8 +118,17 @@
 - [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
 - [Phoenix static blog template](https://github.com/sebastianseilund/phoenix-static-blog-example) - An example of a Phoenix application using static Markdown documents to host a simple blog.
 
+## Tutorial
+- [Elixir/Phoenix — Build a simple chat room With Coherence, Channels and Presence](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.tzo28t4xk)
+
 ## Video 
 - [Elixir and Phoenix Screencasts](https://elixircasts.io/)
+
+## Conferences 
+- [Lonestar ElixirConf 2017](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaMEekS1T32hUw19UxzqBEo)
+
+## Email
+- [Sending emails with Elixir/Phoenix](https://medium.com/@Stephanbv/sending-emails-with-phoenix-elixir-ad43292be31f#.s9y49f219)
 
 ## Frontend
 
@@ -122,8 +140,9 @@
 #### Elm
 - [Phoenix and Elm, a real use case (pt. 1)](https://medium.com/tboe/phoenix-and-elm-a-real-use-case-pt-1-faf56715c112#.e5vq2if5f)
 - [Phoenix and Elm, a real use case (pt. 2)](https://medium.com/tboe/phoenix-and-elm-a-real-use-case-pt-2-e390568701f6#.gtfa5ab12)
-
-
-
+- [Writing A Full Site in Phoenix and Elm Part 1](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.5h101ihuy)
+- [Writing A Full Site in Phoenix and Elm Part 2](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a4622c5130f5#.zd9zp0tm3) - Part 2: Making HTTP Calls From Elm
+- [Writing A Full Site in Phoenix and Elm Part 3](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.rv1glsahc) - Part 3: Navigation From The Ground Up
+- [Elm and Phoenix](http://elmseeds.thaterikperson.com/elm-and-phoenix)
 
 ## Classes
