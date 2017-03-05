@@ -28,7 +28,8 @@
 
 ## Controllers
 
-## Generators
+## Mix and Generators
+- [Alias your Phoenix mix commands for some nice developer UX.](https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474#.uhlfedx9l)
 
 ## Presence 
 = [What makes Phoenix Presence special, and a sneak peek](https://dockyard.com/blog/2016/03/25/what-makes-phoenix-presence-special-sneak-peek)
@@ -107,6 +108,7 @@
 - [A list of companies currently using Elixir](https://github.com/doomspork/elixir-companies)
 - [Benefits of Elixir: How Elixir helped Bleacher Report handle 8x more traffic](http://www.techworld.com/apps/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/)
 - [10 Reasons to choose phoenix for your next startup](http://cultofmetatron.io/10-reasons-you-should-bet-on-elixir-for-your-next-startup/)
+- [Companies using Elixir](https://github.com/doomspork/elixir-companies)
 
 ## Phoenix vs Rails
 - [Phoenix Channels vs Rails Action Cable](https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable)
