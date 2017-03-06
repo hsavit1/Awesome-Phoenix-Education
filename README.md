@@ -30,6 +30,7 @@
 
 ## Mix and Generators
 - [Alias your Phoenix mix commands for some nice developer UX.](https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474#.uhlfedx9l)
+- [Mix tasks cheat sheet](https://medium.com/@peterbanjo/mix-tasks-cheat-sheet-45fb43c29ce1#.qtfvb4vb7)
 
 ## Presence 
 = [What makes Phoenix Presence special, and a sneak peek](https://dockyard.com/blog/2016/03/25/what-makes-phoenix-presence-special-sneak-peek)
@@ -56,6 +57,7 @@
 
 ## Continuous Integration 
 - [Integrating CircleCI with Elixir/Phoenix](https://codingcode.io/integrating-circleci-with-elixir-phoenix-e8a1733201e#.rlp0wi1d3)
+- [Using Your Umbrella](https://speakerdeck.com/cjbell88/using-your-umbrella-elixirdaze) - Using DDD to separate your project into different Bounded Contexts
 
 ## Deployments
 - [Deploying phoenix apps for rails devs](https://shovik.com/blog/6-deploying-phoenix-apps-for-rails-developers)
@@ -98,6 +100,9 @@
 ## Machine Learning 
 - [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
 
+## Nerves
+- [Building Communities of Smart Things Takes Nerves](https://drive.google.com/file/d/0ByoiJJWsFDrUOWJxRTZOMVoxZ2M/view)
+
 ## Books 
 - [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
 
@@ -113,6 +118,7 @@
 ## Phoenix vs Rails
 - [Phoenix Channels vs Rails Action Cable](https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable)
 - [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
+- [Phoenix is not Rails](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 
 ## Example Projects
 - [Phoenix hipster stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
