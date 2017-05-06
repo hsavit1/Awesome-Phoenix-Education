@@ -99,6 +99,7 @@
 - [Designing with OTP in mind](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
 - [Visualisation of Elixir Supervision Tree Strategies](https://medium.com/@mustafaturan/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138#.lgj5a4fux)
 - [Processes, OTP's, and Supervisors for Elixir](https://speakerdeck.com/benjamintan/elixir-peeking-into-processes-otp-and-supervisors)
+- [Background Jobs in Phoenix](https://medium.com/@cschneid/background-jobs-in-elixir-phoenix-60dddf4ce207)
 
 ## Phoenix 1.3
 - [Phoenix 1.3_rc Released](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
