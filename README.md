@@ -14,10 +14,14 @@
 - [PostgreSQL Exercises in Ecto](https://medium.com/@elixirist7/postgresql-exercises-in-ecto-a291ee5482e6#.r8n6lbrdk)
 - [Ecto Docs](https://hexdocs.pm/ecto/Ecto.html)
 
+## Databases
+- [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/)
+
 ## APIs
 - [Introduction to APIs with Phoenix - part 1](https://blog.codeship.com/an-introduction-to-apis-with-phoenix/) - A walkthrough of making a TODO App API with Phoenix 
 - [Ridiculously Fast API Authentication with Phoenix - part 2](https://blog.codeship.com/ridiculously-fast-api-authentication-with-phoenix/) - authentication with Ecto. discusses changelogs, user creation and authentication 
 - [Refactoring Faster Than You Can Spell Phoenix - part 3](https://blog.codeship.com/refactoring-faster-can-spell-phoenix/)
+- [Phoenix 1.3 is pure love for API development](http://swanros.com/phoenix-1-3-is-pure-love-for-api-development)
 
 ## Authentication
 - [Elixir /Phoenix— Lets code authentication. Todo application part 1.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-1-599ee94cd04d#.74z2z2t8r) - With Guardian and Comeonin
@@ -41,6 +45,10 @@
 ## Architecture
 - [Phoenix Application Architecture](https://github.com/phoenixframework/phoenix_guides/issues/118)
 
+## Concurrency 
+- [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/)
+- [Concurrency Abstractions in Elixir](https://blog.codeship.com/concurrency-abstractions-in-elixir/)
+
 ## Testing
 - [Test driving a Phoenix endpoint, part I](https://medium.com/@lasseebert/test-driving-a-phoenix-endpoint-part-i-b53e300c1a0a#.nugb9j75c)
 
@@ -54,6 +62,7 @@
 
 ## Umbrella Projects 
 - [Create an Elixir umbrella project containing a phoenix app and build a release with Distillery](https://medium.com/@brucepomeroy/create-an-elixir-umbrella-project-containing-a-phoenix-app-and-build-a-release-with-distillery-46371f2617df#.n8h1hp3wr)
+- [Using an Elixir Umbrella](https://8thlight.com/blog/georgina-mcfadyen/2017/05/01/elixir-umbrella-projects.html)
 
 ## Continuous Integration 
 - [Integrating CircleCI with Elixir/Phoenix](https://codingcode.io/integrating-circleci-with-elixir-phoenix-e8a1733201e#.rlp0wi1d3)
@@ -77,6 +86,7 @@
 - [Absinthe Docs](http://absinthe-graphql.org/guides/plug-phoenix/)
 - [Phoenix GraphQL Tutorial with Absinthe: Add CRUD Using Mutations](https://ryanswapp.com/2016/12/03/phoenix-graphql-tutorial-with-phoenix-add-crud-using-mutations/)
 - [Phoenix GraphQL Tutorial with Absinthe: Authentication with Guardian](https://ryanswapp.com/2016/12/06/phoenix-graphql-tutorial-with-absinthe-authentication-with-guardian/)
+- [PHOENIX 1.3 AND GRAPHQL WITH ABSINTHE](https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe)
 
 ## Elixir
 - [Elixir School](https://github.com/doomspork/elixir-school)
