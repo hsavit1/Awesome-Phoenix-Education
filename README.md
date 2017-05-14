@@ -104,8 +104,8 @@
 ## Phoenix 1.3
 - [Phoenix 1.3_rc Released](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
 - [Phoenix 1.3 upgrade guide](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
+- [Why Phoenix 1.3 changes are so important](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9s)
 
-## CDNs
 - [How to Set Up a CDN in Phoenix](https://shift.infinite.red/how-to-set-up-a-cdn-in-phoenix-af89074e0a62#.rl1452q00)
 
 ## Machine Learning 
