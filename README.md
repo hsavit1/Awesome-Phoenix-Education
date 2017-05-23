@@ -1,5 +1,8 @@
 # Awesome Phoenix Education (Extremely Early Stage)
 
+## About Phoenix
+- [Whats the fuss about Phoenix?](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
+
 ## Postgres
 - [Postgres tutorial](https://pgexercises.com/about.html)
 
@@ -91,6 +94,11 @@
 ## Elixir
 - [Elixir School](https://github.com/doomspork/elixir-school)
 - [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/)
+- [The Most Object-Oriented Language](http://tech.noredink.com/post/142689001488/the-most-object-oriented-language)
+- [Object Orientation in Ruby and Elixir](http://mikepackdev.com/blog_posts/45-object-orientation-in-ruby-and-elixir)
+- [Disecting an Elixir Applciation](https://blog.10pines.com/2017/05/11/dissecting-elixir/)
+- [Elixir's Secret Weapon](https://blog.drewolson.org/elixirs-secret-weapon)
+- [Building a Webserver in Elixir](https://skillsmatter.com/skillscasts/10033-building-a-webserver-in-elixir)
 
 ## OTP
 - [Cowboy application design](http://learningelixir.joekain.com/cowboy-application-design/)
@@ -105,7 +113,6 @@
 - [Phoenix 1.3_rc Released](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
 - [Phoenix 1.3 upgrade guide](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
 - [Why Phoenix 1.3 changes are so important](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9s)
-
 - [How to Set Up a CDN in Phoenix](https://shift.infinite.red/how-to-set-up-a-cdn-in-phoenix-af89074e0a62#.rl1452q00)
 
 ## Machine Learning 
@@ -130,6 +137,7 @@
 - [Phoenix Channels vs Rails Action Cable](https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable)
 - [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - [Phoenix is not Rails](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
+- [Ruby/Rails vs. Elixir/Phoenix](https://www.grok-interactive.com/blog/ruby-rails-vs-elixir-phoenix/)
 
 ## Example Projects
 - [Phoenix hipster stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
@@ -165,3 +173,6 @@
 - [Elm and Phoenix](http://elmseeds.thaterikperson.com/elm-and-phoenix)
 
 ## Classes
+
+## User Stories 
+- [3 Months into elixir / phoenix project setup](https://www.reddit.com/r/elixir/comments/6c1vql/34_months_learning_elixir_and_what_got_done/)
