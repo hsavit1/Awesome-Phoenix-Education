@@ -2,6 +2,7 @@
 
 ## About Phoenix
 - [Whats the fuss about Phoenix?](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
+- [Elixir and Phoenix Cheatsheets](http://ricostacruz.com/cheatsheets/#elixir)
 
 ## Postgres
 - [Postgres tutorial](https://pgexercises.com/about.html)
@@ -10,12 +11,14 @@
 - [Getting Started With Plug](http://www.brianstorti.com/getting-started-with-plug-elixir/)
 - [Understanding Phoenix Plugs](https://medium.com/@danillopereira/dissecting-phoenix-plugs-c374e5bbb85c#.eifc2vf1w)
 - [Plug Docs](https://hexdocs.pm/plug/readme.html)
-- [Basic Authentication In Your Phoenix App](https://medium.com/@paulfedory/basic-authentication-in-your-phoenix-app-fa24e57baa8#.fws388pjd)
 
 ## Ecto
 - [Ecto, what about it?](https://medium.com/@amandasposito/ecto-what-about-it-7c52b2dc3990#.ypu07nz3z)
 - [PostgreSQL Exercises in Ecto](https://medium.com/@elixirist7/postgresql-exercises-in-ecto-a291ee5482e6#.r8n6lbrdk)
 - [Ecto Docs](https://hexdocs.pm/ecto/Ecto.html)
+- [Form objects in Elixir](https://blog.lelonek.me/form-objects-in-elixir-6a57cf7c3d30)
+- [ElixirDaze 2017- Embrace the Database With Ecto ](https://www.youtube.com/watch?v=fFqsMWmONN4&index=7&list=PLE7tQUdRKcyZV6tCYvrBLOGoyxUf7s9RT)
+- [Thinking in Ecto - schemas and changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) [Thinking in ecto part 2](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
 
 ## Databases
 - [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/)
@@ -27,11 +30,13 @@
 - [Phoenix 1.3 is pure love for API development](http://swanros.com/phoenix-1-3-is-pure-love-for-api-development)
 
 ## Authentication
+- [Basic Authentication In Your Phoenix App](https://medium.com/@paulfedory/basic-authentication-in-your-phoenix-app-fa24e57baa8#.fws388pjd)
 - [Elixir /Phoenix— Lets code authentication. Todo application part 1.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-1-599ee94cd04d#.74z2z2t8r) - With Guardian and Comeonin
 - [Elixir /Phoenix— Lets code authentication. Todo application part 2.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-2-f52348c2b32f#.bxx5qkgc5) - With Guardian and Comeonin
 - [Elixir /Phoenix— Lets code authentication. Todo application part 3.](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-3-acb879d8816#.1n9innym5) - With Guardian and Comeonin
 - [Elixir /Phoenix — A todo and user relationship. Todo application part 4.](https://medium.com/@Stephanbv/elixir-phoenix-a-todo-and-user-relationship-todo-application-part-4-7c2d80d22dea#.tcmgtb7mi)
 - [Elixir /Phoenix — Incomplete and completed todos. Part 5.](https://medium.com/@Stephanbv/elixir-phoenix-a-todo-and-user-relationship-todo-application-part-5-4a7e1b3ff7b9#.jncufgr09)
+- [User Authentication from Scratch in Elixir and Phoenix](http://nithinbekal.com/posts/phoenix-authentication/)
 
 ## Controllers
 
@@ -138,6 +143,7 @@
 - [Pheonix vs Rails](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - [Phoenix is not Rails](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 - [Ruby/Rails vs. Elixir/Phoenix](https://www.grok-interactive.com/blog/ruby-rails-vs-elixir-phoenix/)
+- [What I learned migrating a Rails app to Elixir/Phoenix](https://medium.com/@stueccles/what-i-learned-migrating-a-rails-app-to-elixir-phoenix-f707436749aa)
 
 ## Example Projects
 - [Phoenix hipster stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
