@@ -4,6 +4,9 @@
 - [Whats the fuss about Phoenix?](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
 - [Elixir and Phoenix Cheatsheets](http://ricostacruz.com/cheatsheets/#elixir)
 
+## Lifecycle 
+- [Conn Request Life Cycle](https://shankardevy.com/code/elixir-phoenix-conn-request-life-cycle/)
+
 ## Postgres
 - [Postgres tutorial](https://pgexercises.com/about.html)
 
@@ -20,8 +23,9 @@
 - [ElixirDaze 2017- Embrace the Database With Ecto ](https://www.youtube.com/watch?v=fFqsMWmONN4&index=7&list=PLE7tQUdRKcyZV6tCYvrBLOGoyxUf7s9RT)
 - [Thinking in Ecto - schemas and changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) [Thinking in ecto part 2](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
 
-## Databases
+## ETS
 - [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/)
+- [Optimizing Your Elixir and Phoenix projects with ETS](https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets)
 
 ## APIs
 - [Introduction to APIs with Phoenix - part 1](https://blog.codeship.com/an-introduction-to-apis-with-phoenix/) - A walkthrough of making a TODO App API with Phoenix 
@@ -82,6 +86,10 @@
 - [Upgrade Releases with Edeliver](https://medium.com/@east5th/upgrade-releases-with-edeliver-f24fc9c10494#.ci34c55ad)
 - [Phoenix |> CircleCI |> Heroku deployment](https://medium.com/@tliversidge/phoenix-circleci-heroku-deployment-9d6cc9ef3739#.atw1d3atc)
 - [Elixir deployments on AWS](https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d#.7cowzjp3s)
+- [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 1: Setting up Distillery](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd)
+- [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb)
+- [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
+- [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 4: Secret Management](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
 
 ## Docker
 - [Docker Phoenix](https://github.com/marcelocg/phoenix-docker)
@@ -95,6 +103,9 @@
 - [Phoenix GraphQL Tutorial with Absinthe: Add CRUD Using Mutations](https://ryanswapp.com/2016/12/03/phoenix-graphql-tutorial-with-phoenix-add-crud-using-mutations/)
 - [Phoenix GraphQL Tutorial with Absinthe: Authentication with Guardian](https://ryanswapp.com/2016/12/06/phoenix-graphql-tutorial-with-absinthe-authentication-with-guardian/)
 - [PHOENIX 1.3 AND GRAPHQL WITH ABSINTHE](https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe)
+- [USING APOLLO CLIENT WITH ELIXIR'S ABSINTHE](http://www.east5th.co/blog/2017/04/10/using-apollo-client-with-elixirs-absinthe/)
+- [GRAPHQL AUTHENTICATION WITH ELIXIR AND ABSINTHE](http://www.east5th.co/blog/2017/05/08/graphql-authentication-with-elixir-and-absinthe/)
+- [](http://www.east5th.co/blog/2017/05/15/graphql-authentication-with-apollo-and-react/)
 
 ## Elixir
 - [Elixir School](https://github.com/doomspork/elixir-school)
@@ -105,8 +116,17 @@
 - [Elixir's Secret Weapon](https://blog.drewolson.org/elixirs-secret-weapon)
 - [Building a Webserver in Elixir](https://skillsmatter.com/skillscasts/10033-building-a-webserver-in-elixir)
 
-## OTP
+## Processes
+- [Anatomy of an Elixir Process](https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166)
+- [When to use processes in Elixir - Part 1: Storing state](https://medium.com/elixirlabs/when-to-use-processes-in-elixir-18287da73d47)
+- [When to use processes in Elixir - Part 2: Running concurrent tasks](https://medium.com/elixirlabs/when-to-use-processes-in-elixir-part-2-running-concurrent-tasks-108cf2c57d96)
+- [Demystifying processes in Elixir](http://blog.appsignal.com/2017/05/18/elixir-alchemy-demystifying-processes-in-elixir.html)
+
+## Cowboy 
+- [Create an Elixir Web app using Cowboy](https://shankardevy.com/code/create-elixir-web-app-using-cowboy/)
 - [Cowboy application design](http://learningelixir.joekain.com/cowboy-application-design/)
+
+## OTP
 - [Designing OTP Applications in Elixir](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
 - [Railway Oriented Programming in Elixir](http://zohaib.me/railway-programming-pattern-in-elixir/)
 - [Designing with OTP in mind](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
@@ -120,7 +140,7 @@
 - [Why Phoenix 1.3 changes are so important](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9s)
 - [How to Set Up a CDN in Phoenix](https://shift.infinite.red/how-to-set-up-a-cdn-in-phoenix-af89074e0a62#.rl1452q00)
 
-## Machine Learning 
+## GenStage and Flow  
 - [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
 
 ## Nerves
@@ -164,11 +184,13 @@
 - [Sending emails with Elixir/Phoenix](https://medium.com/@Stephanbv/sending-emails-with-phoenix-elixir-ad43292be31f#.s9y49f219)
 
 ## Frontend
+- [Decorating in Views](https://dockyard.com/blog/2016/01/15/phoenix-best-practice-decorating-in-views)
 
 #### React
 - [Phoenix + React](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.62q89yjgo)
 - [React/Redux + Phoenix (Elixir)](https://github.com/chvanikoff/reph)
 - [How to Use Phoenix + React + Webpack](https://medium.com/@roaltay/how-to-use-phoenix-react-webpack-5383fa556b62#.5bj4tukfg)
+- [USING CREATE REACT APP WITH PHOENIX](http://www.east5th.co/blog/2017/04/03/using-create-react-app-with-phoenix/)
 
 #### Elm
 - [Phoenix and Elm, a real use case (pt. 1)](https://medium.com/tboe/phoenix-and-elm-a-real-use-case-pt-1-faf56715c112#.e5vq2if5f)
