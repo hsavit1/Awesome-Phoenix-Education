@@ -63,6 +63,7 @@
 
 ## Testing
 - [Test driving a Phoenix endpoint, part I](https://medium.com/@lasseebert/test-driving-a-phoenix-endpoint-part-i-b53e300c1a0a#.nugb9j75c)
+- [Ex Debug Toolbar](https://github.com/kagux/ex_debug_toolbar?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
 
 ## Monitoring 
 - [Monitoring Phoenix](https://medium.com/@mschae/measuring-your-phoenix-app-d63a77b13bda#.ofljn28yn)
@@ -79,10 +80,12 @@
 ## Continuous Integration 
 - [Integrating CircleCI with Elixir/Phoenix](https://codingcode.io/integrating-circleci-with-elixir-phoenix-e8a1733201e#.rlp0wi1d3)
 - [Using Your Umbrella](https://speakerdeck.com/cjbell88/using-your-umbrella-elixirdaze) - Using DDD to separate your project into different Bounded Contexts
+- [Automating Elixir Tests —Continuous Integration with Bitbucket Pipelines](https://medium.com/@pentacent/automating-elixir-tests-continuous-integration-with-bitbucket-pipelines-8b432017237a)
 
 ## Deployments
 - [Deploying phoenix apps for rails devs](https://shovik.com/blog/6-deploying-phoenix-apps-for-rails-developers)
 - [Deploying Elixir Applications with Distillery](https://medium.com/@east5th/deploying-elixir-applications-with-distillery-f7f01d040a20#.m6t9k9ic3)
+- [Mastering Elixir Releases with Distillery — A (Pretty) Complete Guide](https://medium.com/@pentacent/mastering-elixir-releases-with-distillery-a-pretty-complete-guide-497546f298bc)
 - [Upgrade Releases with Edeliver](https://medium.com/@east5th/upgrade-releases-with-edeliver-f24fc9c10494#.ci34c55ad)
 - [Phoenix |> CircleCI |> Heroku deployment](https://medium.com/@tliversidge/phoenix-circleci-heroku-deployment-9d6cc9ef3739#.atw1d3atc)
 - [Elixir deployments on AWS](https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d#.7cowzjp3s)
@@ -90,12 +93,14 @@
 - [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb)
 - [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
 - [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 4: Secret Management](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
+- [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 5: Clustering Elixir & Phoenix Channels](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 
 ## Docker
 - [Docker Phoenix](https://github.com/marcelocg/phoenix-docker)
 - [How to use Docker and Phoenix](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)
 - [Deploying Phoenix Apps with Docker](https://shovik.com/blog/8-deploying-phoenix-apps-with-docker)
 - [Running Your Phoenix Tests Using Docker](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
+- [How to run Phoenix framework application inside a Docker container?](https://blog.lelonek.me/how-to-run-phoenix-framework-application-inside-a-docker-container-b02817d860b4)
 
 ## GraphQL
 - [Phoenix GraphQL Tutorial with Absinthe](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
@@ -115,6 +120,9 @@
 - [Disecting an Elixir Applciation](https://blog.10pines.com/2017/05/11/dissecting-elixir/)
 - [Elixir's Secret Weapon](https://blog.drewolson.org/elixirs-secret-weapon)
 - [Building a Webserver in Elixir](https://skillsmatter.com/skillscasts/10033-building-a-webserver-in-elixir)
+
+## Server side rendering 
+- [Server-Side Rendering with Elixir/ElixirScript](https://www.grappendorf.net/tutorials/elixir_serverside_rendering/)
 
 ## Processes
 - [Anatomy of an Elixir Process](https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166)
@@ -142,6 +150,7 @@
 
 ## GenStage and Flow  
 - [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
+- [Stateful websockets with Elixir Genstage](https://medium.com/mint-digital/stateful-websockets-with-elixirs-genstage-a29eab420c0d)
 
 ## Nerves
 - [Building Communities of Smart Things Takes Nerves](https://drive.google.com/file/d/0ByoiJJWsFDrUOWJxRTZOMVoxZ2M/view)
